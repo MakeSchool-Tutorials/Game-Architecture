@@ -5,6 +5,12 @@ slug: game-architecture
 
 Planning out your game before starting is one of the most important things you can do. Starting with a good architecture will make your life easier as you develop and even moreso when you come back to update your game later on. We have set up this exercise to drill in the point that organizing your code and CCB files correctly is extremely important.
 
+#Golden rules of game development
+
+- **Do NOT duplicate code!** There's never an excuse for doing so.
+- Keep *game content* and *game mechanics* separate.
+- Break your game down into separte, decoupled units.
+
 #Getting started
 
 To get started, download the [Game Architecture assignment](https://github.com/MakeSchool/GameArchitecture-SpriteBuilder-Swift/archive/master.zip) and extract it's contents. In it, you will find a SpriteBuilder project containing a basic platformer game.
