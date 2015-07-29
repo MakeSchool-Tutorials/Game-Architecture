@@ -9,7 +9,7 @@ Planning out your game before starting is one of the most important things you c
 
 - **Do NOT duplicate code!** There's never an excuse for doing so.
 - Keep *game content* and *game mechanics* separate.
-- Break your game down into separte, decoupled units.
+- Break your game down into separate, decoupled units.
 
 #Getting started
 
